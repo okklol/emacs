@@ -1,0 +1,8 @@
+(package! catppuccin-theme)
+(package! rainbow-delimiters)
+(package! flycheck)
+(package! auto-complete)
+(package! treemacs)
+(package! treemacs-evil)
+(package! evil)
+(package! elcord)
